@@ -1,0 +1,15 @@
+[
+    {
+        "name": "acf_gear_retract",
+        "ref": "sim/aircraft/gear/acf_gear_retract"
+        
+    },
+    {
+        "name": "battery_on",
+        "ref": "sim/cockpit/electrical/battery_on" 
+    },
+    {
+        "name": "N1_percent",
+        "ref": "sim/cockpit2/engine/indicators/N1_percent" 
+    }
+]
